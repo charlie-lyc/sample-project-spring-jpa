@@ -1,4 +1,4 @@
-# Backend of Seawater-EMS on JDK14
+# Sample project with MariaDB, Spring and JPA
 
 - Run environment
   - OpenJDK: v14
